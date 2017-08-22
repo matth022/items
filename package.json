@@ -2,7 +2,7 @@
   "name": "items",
   "description": "Bare minimum async methods",
   "version": "2.1.1",
-  "repository": "git://github.com/hapijs/items",
+  "repository": "git://github.com/matth022/items",
   "main": "lib/index.js",
   "keywords": [
     "async",
